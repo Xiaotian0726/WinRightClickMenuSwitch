@@ -5,11 +5,11 @@
 Win10 / Win11 风格的右键菜单：
 
 <div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="img/win10.png" alt="win10" style="width: 100%; height: auto;">
+    <div style="flex-basis: 50%;">
+        <img src="img/win10.png" alt="win10" style="max-width: 100%; height: auto;">
     </div>
-    <div style="flex: 1;">
-        <img src="img/win11.png" alt="win11" style="width: 100%; height: auto;">
+    <div style="flex-basis: 50%;">
+        <img src="img/win11.png" alt="win11" style="max-width: 100%; height: auto;">
     </div>
 </div>
 
